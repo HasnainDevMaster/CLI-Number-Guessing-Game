@@ -5,7 +5,7 @@ Welcome to the CLI Number Guessing Game! This project is a simple command-line g
 ________________
 **Features:** 🌟
 ________________
-Random Number Generation: The game generates a random number between 0 and 9 for players to guess.
+**Random Number Generation**: The game generates a random number between 0 and 9 for players to guess.
 
 **User Input:** Players input their guesses via the command line.
 
@@ -96,7 +96,7 @@ ____________
 ________
 This application only accepts integers as input.
 
-Conclusion: 🎈
+**Conclusion**: 🎈
 
 Congratulations! Whether you guessed the correct number quickly or took a few attempts, the thrill of anticipation and the joy of hitting the bullseye are what make this game so engaging.
 
