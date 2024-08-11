@@ -26,6 +26,7 @@ TypeScript: The game is written in TypeScript, so you’ll need to install TypeS
 ``
 npm install -g typescript
 ``
+
 ____________________
 **Installation:** 🚀
 ____________________
@@ -46,6 +47,24 @@ Additionally, install inquirer for user input prompts:
 ``
 npm i inquirer
 ``
+
+
+**Installation: NPM:** 💻
+
+Simply run the following command in your terminal (cmd):
+
+Install:
+
+```
+npm i mrshas-cli-number-guessing-game
+```
+
+Run:
+
+```
+npx mrshas-cli-number-guessing-game
+```
+
 ________________________
 **Running the Game:** ▶️
 ________________________

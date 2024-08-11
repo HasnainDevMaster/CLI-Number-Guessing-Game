@@ -1,9 +1,16 @@
 {
   "name": "mrshas-cli-number-guessing-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a CLI (Command Line Interface) Number Guessing Game built with TypeScript and Node.js.",
   "main": "index.js",
   "type": "module",
+  "bin": {
+   "mrshas-cli-number-guessing-game": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HasnainDevMaster/CLI-Number-Guessing-Game.git"
+  },
   "publishConfig": {
     "access": "public"
   },
