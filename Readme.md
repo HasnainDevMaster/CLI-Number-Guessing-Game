@@ -42,12 +42,6 @@ Install the dependencies by running the following command in your terminal (cmd)
 npm install
 ``
 
-Additionally, install inquirer for user input prompts:
-
-``
-npm i inquirer
-``
-
 
 **Installation: NPM:** 💻
 
